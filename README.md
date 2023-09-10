@@ -20,7 +20,7 @@
 
 <h2>Connect Me</h2>
 
-<p align="center">
+<p>
   <a href="https://instagram.com/abdoli0101">
     <img src="https://img.shields.io/badge/Instagramt-@Abdoli0101-red?style=flat&logo=instagram"/>
   </a>
@@ -28,6 +28,3 @@
     <img src="https://img.shields.io/badge/Telegram-@Abdoli01-blue?style=flat&logo=telegram"/>
   </a>
 </p>
-
-<a href="https://instagram.com/abdoli0101"><img src="https://github.com/Mohammadabdolii/Mohammadabdolii/blob/main/icons8-instagram-48.png?raw=true" /></a>
-<a href="https://t.me/Abdoli01"><img src="https://github.com/Mohammadabdolii/Mohammadabdolii/blob/main/icons8-telegram-48.png?raw=true" /></a>
