@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Instagramt-@Abdoli0101-red?style=flat&logo=instagram"/>
   </a>
   <a href="https://t.me/Abdoli01">
-    <img src="https://img.shields.io/badge/Instagramt-@Abdoli01-blue?style=flat&logo=telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@Abdoli01-blue?style=flat&logo=telegram"/>
   </a>
 </p>
 
