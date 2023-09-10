@@ -17,8 +17,8 @@
 <h2>Connect Me</h2>
 
 <p>
-  <a href="https://instagram.com/abdoli0101">
-    <img src="https://img.shields.io/badge/Instagramt-@Abdoli0101-red?style=flat&logo=instagram"/>
+  <a href="https://instagram.com/abdolii01">
+    <img src="https://img.shields.io/badge/Instagramt-@Abdolii01-red?style=flat&logo=instagram"/>
   </a>
   <a href="https://t.me/Abdoli01">
     <img src="https://img.shields.io/badge/Telegram-@Abdoli01-blue?style=flat&logo=telegram"/>
